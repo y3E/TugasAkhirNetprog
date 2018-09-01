@@ -9,8 +9,8 @@ bila ada kekurangan. semoga kita diberikaan yang terbaik, aminnnn.
 
 
 --Notes :
-- pas abis download dari GDrive ada kasus gambarnya gak mau ke load 
-	pas dijalanin jar-nya tapi di laptop saya bisa
+- pas abis download dari GDrive ada kasus gambarnya kadang gak mau ke load 
+	pas dijalanin jar-nya.
 
 ===Refrensi Game===
 http://dubel.org/programming/battleship.htm
