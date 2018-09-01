@@ -1,0 +1,25 @@
+Protocol:
+
+<ID>:<MSG>
+ 
+Send IDs:
+G  - Send index played
+A  - Send if it was hit or not (1: hit;  0: not a hit)
+DA - Send dice answer (my number)
+E  - Game is over
+C  - First connection, inform the server
+M  - Chat message
+B  - Close connection
+  
+Receive IDs:
+G  - receive during the game, with shot position
+A  - receive during the game, if shot position was a hit or not
+DQ - inform to open the dice handler (to pick a number)
+DA - inform who will start to play
+DE - dice error, both players picked the same number, dice will open again
+E  - Game is over
+S  - First connection, server informs game can start
+SN - First connection, server is not ready yet
+M  - Chat message
+B  - Server will close connection
+ 
