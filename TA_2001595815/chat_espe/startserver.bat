@@ -1,2 +1,2 @@
 cd C:\xampp\php
-php -q C:\xampp\htdocs\espe\server.php
+php -q C:\xampp\htdocs\chat_espe\server.php
